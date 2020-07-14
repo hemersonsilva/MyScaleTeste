@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- mdpi -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_small">8dp</dimen>
+    <dimen name="text_large">11dp</dimen>
+    <dimen name="bottom_padding_signup">12dp</dimen>
+    <dimen name="scale_line_small">10dp</dimen>
+    <dimen name="scale_line_medium">22dp</dimen>
+    <dimen name="scale_line_large">32dp</dimen>
+    <dimen name="yellow_line_stroke_width">1dp</dimen>
+
+</resources>
